@@ -11,7 +11,7 @@ const config = {
   title: 'Gatherd\'s Blog',
   tagline: 'Site for gatherd blogging and sharing.',
   url: 'https://gary258796.github.io',
-  baseUrl: '/gatherd-blogging/',
+  baseUrl: '/gatherd/blogging/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
