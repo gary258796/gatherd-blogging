@@ -51,11 +51,11 @@ export default function DocItemLayout({ children }) {
 
         <br></br>
         <Giscus
-          id="R_kgDOIOH-DQ"
-          repo="gary258796/blogging"
-          repoId="R_kgDOIOH-DQ"
+          id="R_kgDOIRAvsg"
+          repo="gary258796/gatherd-blogging"
+          repoId="R_kgDOIRAvsg"
           category="Docusaurus"
-          categoryId="DIC_kwDOIOH-Dc4CR_st"
+          categoryId="DIC_kwDOIRAvss4CSF1k"
           mapping="pathname"
           reactionsEnabled="1"
           inputPosition="bottom"
